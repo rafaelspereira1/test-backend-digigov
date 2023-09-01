@@ -3,13 +3,12 @@
 ![GitHub](https://img.shields.io/github/license/rodrigodevts/test-backend-digigov)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rodrigodevts/test-backend-digigov)
 
-Bem-vindo ao teste técnico para a posição de Desenvolvedor Back-end Pleno na Digigov!
+Bem-vindo ao teste técnico para a vaga de Desenvolvedor Back-end Pleno na Digigov!
+
+Neste teste, você terá a oportunidade de demonstrar suas habilidades em aplicar os princípios do SOLID e Clean Architecture para refatorar um código existente em TypeScript.
 
 ## Descrição do Problema
-
-Você está se candidatando a uma vaga de Desenvolvedor Back-end Pleno em nossa startup inovadora, a Digigov. Nossa missão é tornar os serviços governamentais mais eficientes e acessíveis através da tecnologia. Estamos transformando a maneira como a sociedade se conecta com o governo, e você pode ser parte disso!
-
-Neste teste, você terá a oportunidade de demonstrar suas habilidades em aplicar os princípios do SOLID e Clean Architecture para refatorar um código existente em TypeScript. O código atual do sistema de gerenciamento de tarefas é desorganizado e precisa de melhorias.
+Você está trabalhando em um sistema de gerenciamento de tarefas, onde os usuários podem criar, listar e concluir tarefas. No entanto, o código atual do sistema foi desenvolvido rapidamente e de forma desorganizada, tornando-o difícil de manter e expandir. Sua tarefa é refatorar o código existente, aplicando os princípios do SOLID e Clean Architecture, a fim de melhorar a estrutura e a organização do código.
 
 ## Instruções
 
@@ -23,7 +22,7 @@ Neste teste, você terá a oportunidade de demonstrar suas habilidades em aplica
 4. Implemente os conceitos de SOLID e Clean Architecture da melhor forma que puder.
 5. Certifique-se de que o código continua funcionando conforme o exemplo de uso fornecido no arquivo TypeScript original.
 6. Envie suas alterações para o repositório e forneça uma explicação clara das mudanças que você fez e por que as fez.
-7. Depois de concluir o teste, envie o link do seu repositório para o email de contato fornecido na descrição da vaga.
+7. Depois de concluir o teste, envie o link do seu repositório para o email (contato@digigov.com.br).
 
 ## Dicas
 
@@ -36,4 +35,5 @@ Neste teste, você terá a oportunidade de demonstrar suas habilidades em aplica
 
 A avaliação deste teste se baseará em sua capacidade de aplicar os princípios do SOLID e Clean Architecture, bem como na qualidade da documentação e da explicação das mudanças feitas. Também valorizamos a clareza e a organização do código.
 
-Boa sorte😎! Estamos ansiosos para ver suas habilidades em ação 🚀
+😎 Boa sorte! 
+🚀 Estamos ansiosos para ver suas habilidades em ação!
