@@ -1,23 +1,7 @@
-interface Task {
-	title: string;
-	completed: boolean;
-}
+import { TaskRepository } from "./repositories";
+import { addTask, listTasks } from "./useCases";
 
-const tasks: Task[] = [];
-
-function addTask(title: string): void {
-	const task: Task = {
-		title,
-		completed: false,
-	};
-	tasks.push(task);
-}
-
-function listTasks(): Task[] {
-	return tasks;
-}
-
-// Uso do código atual
-addTask("Ler livro");
-addTask("Fazer compras");
-console.log(listTasks());
+const taskRepository = new TaskRepository();
+addTask("Ler livro", taskRepository);
+addTask("Fazer compras", taskRepository);
+console.log(listTasks(taskRepository));
